@@ -1,0 +1,19 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#quiz {
+  background: #fff;
+  color: #262626;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#quiz .icon {
+  font-size: 100px;
+}
+
+#quiz .icon + .icon {
+  margin-left: 75px;
+}
